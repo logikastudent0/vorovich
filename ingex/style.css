@@ -1,0 +1,46 @@
+main {
+
+    text-align: center;
+    color:mediumslateblue;
+    background-color: turquoise;
+    font-size: 15px;
+}
+img{
+
+  border: solid 5px; 
+  color: rgba(14, 10, 10, 0.363);
+  background-color: turquoise;
+  border-radius: 25px; 
+}
+header{
+    background-color: turquoise;
+    border:solid 5px;
+    color: wheat;
+    border-radius: 25px;
+    padding: 15px;
+
+}
+footer{
+    background-color: turquoise;
+    color: slateblue;
+    border: solid 2px red;
+    border-radius:25px;
+    padding: 15px;
+    margin: 10px;
+}
+body{
+    background-color: turquoise;
+}
+
+nav a{
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+nav{
+    text-align: center;
+}
